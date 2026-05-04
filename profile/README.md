@@ -38,7 +38,7 @@ The Data & Analytics platform powering Danone's digital transformation.
 |------|-------------|
 | **Infrastructure** | `platform-infrastructure`, `management-infrastructure` |
 | **DTU Management** | `dtu-infrastructure`, `dtu-management` |
-| **Ingestion** | `ingestion-adf`, `ingestion-databricks`, `ingestion-sql`, `ingestion-configuration` |
+| **Ingestion** | `ingestion-adf`, `ingestion-databricks`, `ingestion-sql`, `ingestion-config-app` |
 | **Data Quality** | `dq-observability` |
 | **Shared Tooling** | `shared`, `house-tools`, `transformations-library` |
 | **Release** | `release`, `backup-data` |
@@ -49,5 +49,5 @@ The Data & Analytics platform powering Danone's digital transformation.
 
 ### Support
 
-- Questions? Reach the OneHouse platform team via [Slack / Teams channel link]
-- Platform issues or requests? Raise a ticket in [ServiceNow / Jira link]
+- Questions? Reach the OneHouse platform team via [Palina SULKOUSKAYA](mainlto:Palina.SULKOUSKAYA@external.danone.com)
+- Platform issues or requests? Raise a ticket in [ServiceNow](https://danone.service-now.com/danone_it?id=search&spa=1&q=onehouse)
