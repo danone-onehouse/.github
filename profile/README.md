@@ -6,7 +6,7 @@ The Data & Analytics platform powering Danone's digital transformation.
 
 ### Quick Links
 
-- [GitHub Copilot Requests](https://github.com/organizations/danone-onehouse/settings/copilot) — Request Copilot access
+- [GitHub Copilot Requests](https://danone.service-now.com/danone_it?id=sc_cat_item_it&sys_id=1fd23593eb876690f8a5f30e8ad0cd9b) — Request Copilot access
 - [GitHub Organization](https://github.com/danone-onehouse) — This page
 - [GitHub Status](https://www.githubstatus.com/) — Service health & incidents
 
@@ -14,9 +14,9 @@ The Data & Analytics platform powering Danone's digital transformation.
 
 ### Users & Team Management
 
-- **Join the organization** — Request access via your team lead or raise a ticket in [ServiceNow / Jira link]
+- **Join the organization** — Request access via your team lead or raise a ticket in [ServiceNow / Jira link](https://danone.service-now.com/timesheetnow?id=sc_cat_item_it&sys_id=2adc9e2c1ba5ba1002815205604bcb0a&sysparm_category=fb645335eb7392d0f8a5f30e8ad0cd77)
 - **Teams & members** — View current structure at [GitHub Teams](https://github.com/orgs/danone-onehouse/teams)
-- **Repository permissions** — Access is managed through GitHub Teams. Each repo has dedicated teams with read, write, or admin roles.
+- **Repository permissions** — Access is managed through EntraId and Idp GitHub Teams. Each repo has dedicated teams with read, write, or admin roles.
 
 ---
 
