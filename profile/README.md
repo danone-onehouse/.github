@@ -29,10 +29,10 @@ See also: [Work in GitHub](https://github.com/danone/danone.documentation/wiki/W
 | Topic | Guidance |
 |-------|----------|
 | **Branching** | Trunk-based development. Short-lived feature branches, merge frequently. |
-| **Pull Requests** | Keep PRs small and focused. Use the PR template. Require at least one review before merge. |
+| **Pull Requests** | Keep PRs small and focused. Use the PR template and JIRA Id in the PR title. Require at least one review before merge. |
 | **Commits** | Write meaningful commit messages. Reference Jira ticket IDs (e.g., `[O20-1234]`). |
 | **CI/CD** | All PRs must pass linting, SAST scanning (Checkmarx), and relevant build checks before merge. |
-| **Security** | Secrets must never be committed. Use Azure Key Vault + GitHub Secrets. Enable Dependabot alerts. |
+| **Security** | Secrets must never be committed. Use Azure Key Vault + GitHub Secrets. Enable Dependabot/Renovate alerts. |
 
 ---
 
