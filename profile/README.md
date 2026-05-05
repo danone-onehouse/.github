@@ -59,5 +59,5 @@ See also: [Work in GitHub](https://github.com/danone/danone.documentation/wiki/W
 
 ### Support
 
-- Questions? Reach the OneHouse platform team via [Support team](https://danone.sharepoint.com/sites/DMS-WWOneSource/SitePages/Operations-%26-Support.aspx#incidents-support)
-- Platform issues or requests? Raise a ticket in [ServiceNow](https://danone.service-now.com/danone_it?id=search&spa=1&q=onehouse)
+- Do you need help?Follow the useful resources available in via [Support](https://danone.sharepoint.com/sites/DMS-WWOneSource/SitePages/Operations-%26-Support.aspx#incidents-support)
+
