@@ -59,5 +59,5 @@ See also: [Work in GitHub](https://github.com/danone/danone.documentation/wiki/W
 
 ### Support
 
-- Do you need help?Follow the useful resources available in via [Support](https://danone.sharepoint.com/sites/DMS-WWOneSource/SitePages/Operations-%26-Support.aspx#incidents-support)
+- Do you need help? Follow the useful resources available via [Support](https://danone.sharepoint.com/sites/DMS-WWOneSource/SitePages/Operations-%26-Support.aspx#incidents-support)
 
