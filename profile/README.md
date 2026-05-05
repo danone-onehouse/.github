@@ -6,7 +6,6 @@ The Data & Analytics platform powering Danone's digital transformation.
 
 ### Quick Links
 
-- [GitHub Copilot Requests](https://danone.service-now.com/danone_it?id=sc_cat_item_it&sys_id=1fd23593eb876690f8a5f30e8ad0cd9b) — Request Copilot access
 - [GitHub Organization](https://github.com/danone-onehouse) — This page
 - [GitHub Status](https://www.githubstatus.com/) — Service health & incidents
 - [Documentation Wiki](https://github.com/danone/danone.documentation/wiki/) — Danone-wide GitHub guides & policies
@@ -16,7 +15,7 @@ The Data & Analytics platform powering Danone's digital transformation.
 
 ### Users & Team Management
 
-- **Join the organization** — Request access via your team lead or raise a ticket in [ServiceNow](https://danone.service-now.com/timesheetnow?id=sc_cat_item_it&sys_id=2adc9e2c1ba5ba1002815205604bcb0a&sysparm_category=fb645335eb7392d0f8a5f30e8ad0cd77)
+- [Quick User guide](https://danone.sharepoint.com/sites/DMS-WWOneSource/MainLibrary/Forms/AllItems.aspx?id=%2Fsites%2FDMS%2DWWOneSource%2FMainLibrary%2FOneHouse%2FHow%20to%20request%20access%20to%20GitHub%2Epdf&parent=%2Fsites%2FDMS%2DWWOneSource%2FMainLibrary%2FOneHouse) for GitHub access and Copilot in Danone-Onehouse
 - **Teams & members** — View current structure at [GitHub Teams](https://github.com/orgs/danone-onehouse/teams)
 - **Repository permissions** — Access is managed through EntraId and Idp GitHub Teams. Each repo has dedicated teams with read, write, or admin roles.
 
@@ -60,5 +59,5 @@ See also: [Work in GitHub](https://github.com/danone/danone.documentation/wiki/W
 
 ### Support
 
-- Questions? Reach the OneHouse platform team via [Palina SULKOUSKAYA](mailto:Palina.SULKOUSKAYA@external.danone.com)
+- Questions? Reach the OneHouse platform team via [Support team](https://danone.sharepoint.com/sites/DMS-WWOneSource/SitePages/Operations-%26-Support.aspx#incidents-support)
 - Platform issues or requests? Raise a ticket in [ServiceNow](https://danone.service-now.com/danone_it?id=search&spa=1&q=onehouse)
