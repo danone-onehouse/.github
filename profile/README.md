@@ -9,6 +9,8 @@ The Data & Analytics platform powering Danone's digital transformation.
 - [GitHub Organization](https://github.com/danone-onehouse) — This page
 - [GitHub Status](https://www.githubstatus.com/) — Service health & incidents
 - [Documentation Wiki](https://github.com/danone/danone.documentation/wiki/) — Danone-wide GitHub guides & policies
+- [GitHub Actions Allow List](https://danone.service-now.com/ecportal?id=kb_article&sysparm_article=KB0117300)
+- [Request adding new GitHub Action to the allow list](https://danone.service-now.com/danone_it?id=sc_cat_item_it&sys_id=3815ab5b2b224b10ad87f0b14391bfb2)
 - [Microsoft Learn — GitHub Skills](https://learn.microsoft.com/en-gb/collections/kkqrhmxoqn54) — Self-paced GitHub training
 
 ---
